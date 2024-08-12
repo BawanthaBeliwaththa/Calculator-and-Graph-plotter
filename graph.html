@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Graph Plotter</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/9.5.0/math.js">
+    </script>
+    <link rel="stylesheet" href="css/style_graph.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Graph Plotter</h1>
+            <div class="input-container">
+                <input type="text" id="functionInput" placeholder="Enter a function, e.g. y = x^2">
+                <button onclick="plotGraph()"> 
+					Plot 
+				</button>
+            </div>
+        </header>
+        <div class="main-content">
+            <div class="graph" id="graph"></div>
+        </div>
+    </div>
+
+    <script src="scrpits/plot2.js"></script>
+</body>
+
+</html>
