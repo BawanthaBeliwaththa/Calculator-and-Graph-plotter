@@ -10,10 +10,12 @@ I used These Languages in creation :
   <li>Java-Script</li>
 </ul>
 
+<br>
+
 <h2>This is the output of calculator only it self</h2>
 <img src="https://github.com/BawanthaBeliwaththa/Calculator-and-Graph-plotter/blob/main/img/sc_cal.png">
 
 <h2>This is the output of graph plotter only it self</h2>
 <img src="https://github.com/BawanthaBeliwaththa/Calculator-and-Graph-plotter/blob/main/img/sc_gra.png">
 
-# This Project is posted in the web as : https://math.programming-pub.space/?i=1
+# This Project is posted in the web as : https://math.programming-pub.space
